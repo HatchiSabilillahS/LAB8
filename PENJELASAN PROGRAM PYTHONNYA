@@ -1,0 +1,23 @@
+Penjelasan:
+1.	Class Mahasiswa:
+o	Menyimpan data nama dan nilai mahasiswa.
+2.	Class DaftarNilai:
+o	Menggunakan list daftar_mahasiswa untuk menyimpan objek Mahasiswa.
+o	Menerapkan metode tambah(), tampilkan(), hapus(), dan ubah() sesuai dengan fungsinya.
+3.	Program Utama:
+o	Membuat objek DaftarNilai untuk mengelola data.
+o	Menampilkan menu interaktif untuk pengguna memilih operasi yang ingin dilakukan.
+Cara Penggunaan:
+1.	Jalankan program Python ini.
+2.	Pilih menu yang tersedia untuk menambah, menampilkan, menghapus, atau mengubah data mahasiswa.
+3.	Ikuti petunjuk yang diberikan untuk memasukkan data.
+Fitur Tambahan yang Bisa Ditambahkan:
+•	Validasi input: Pastikan input yang dimasukkan pengguna valid (misalnya, nilai tidak negatif).
+•	Pencarian berdasarkan kriteria lain: Selain nama, bisa mencari berdasarkan rentang nilai, misalnya.
+•	Pengurutan data: Urutkan data berdasarkan nama atau nilai.
+•	Simpan data ke file: Simpan data ke file agar tidak hilang saat program dijalankan ulang.
+Kelebihan Kode Ini:
+•	Mudah dipahami: Kode ini menggunakan struktur yang jelas dan komentar untuk menjelaskan setiap bagian.
+•	Fleksibel: Kode ini dapat dengan mudah dimodifikasi untuk menambahkan fitur baru.
+•	Efisien: Penggunaan list untuk menyimpan data mahasiswa membuat pencarian dan penghapusan data menjadi lebih efisien.
+Dengan kode ini, kamu dapat dengan mudah membuat program sederhana untuk mengelola data nilai mahasiswa.
